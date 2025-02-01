@@ -11,8 +11,10 @@ The exercise involves the following key steps:
 - Performance: The models are at least 70% in at least one of the models.
 
 Repository Contents
-- VGG19_Ex4.ipynb: Jupyter Notebook containing the implementation using the VGG19 pre-trained model.
+- VGG19_Ex4.ipynb: Jupyter Notebook containing the implementation using the VGG19 pre-trained model. Main implementation with random seed = 159.
+- VGG19_Ex4_42.ipynb: Jupyter Notebook containing the implementation using the VGG19 pre-trained model. Another implementation of split data with random seed = 42.
 - YOLOv5_Ex4.ipynb: Jupyter Notebook containing the implementation using the YOLOv5 pre-trained model.
+- YOLOv5_Ex4_42.ipynb: Jupyter Notebook containing the implementation using the VGG19 pre-trained model. Another implementation of split data with random seed = 42.
 
 Code Implementation
 The code is written in Python and uses deep learning package PyTorch. The notebooks in this repository demonstrate the following:
